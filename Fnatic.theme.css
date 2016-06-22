@@ -2969,7 +2969,7 @@ div#bd-pub-button:hover {
     background-color: transparent;
 }
 .user-popout {
-	background-image: url("https://i.imgur.com/tV4Fj9E.jpg") !important;
+	background-image: transparent !important;
 	background-position: 50% 50%;
 }
 #user-profile-modal .header {
